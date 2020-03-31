@@ -1,0 +1,14 @@
+/Users/luxx/eclipse-spring1/olineShop/src/main/java/onlineShop/model/Authorities.java
+/Users/luxx/eclipse-spring1/olineShop/src/main/java/onlineShop/model/BillingAddress.java
+/Users/luxx/eclipse-spring1/olineShop/src/main/java/onlineShop/ApplicationConfig.java
+/Users/luxx/eclipse-spring1/olineShop/src/main/java/onlineShop/Application.java
+/Users/luxx/eclipse-spring1/olineShop/src/main/java/onlineShop/model/Cart.java
+/Users/luxx/eclipse-spring1/olineShop/src/main/java/onlineShop/model/User.java
+/Users/luxx/eclipse-spring1/olineShop/src/main/java/onlineShop/log/Logger.java
+/Users/luxx/eclipse-spring1/olineShop/src/main/java/onlineShop/log/ServerLogger.java
+/Users/luxx/eclipse-spring1/olineShop/src/main/java/onlineShop/model/Product.java
+/Users/luxx/eclipse-spring1/olineShop/src/main/java/onlineShop/log/PaymentAction.java
+/Users/luxx/eclipse-spring1/olineShop/src/main/java/onlineShop/model/ShippingAddress.java
+/Users/luxx/eclipse-spring1/olineShop/src/main/java/onlineShop/model/CartItem.java
+/Users/luxx/eclipse-spring1/olineShop/src/main/java/onlineShop/model/Customer.java
+/Users/luxx/eclipse-spring1/olineShop/src/main/java/onlineShop/model/SalesOrder.java
