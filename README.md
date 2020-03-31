@@ -2,7 +2,7 @@
 This is a website which provides online Shopping service. It used spring framework and hibernate.   
 
 Show the structure of the project:
-![avatar](images/processgraph.png)
+![avatar](image/processgraph.png)
 
 Database:
 ORM is a programming technique that lets you manipulate data from a database using object-oriented programming language
@@ -18,6 +18,6 @@ There are three important inferfaces of Hibernate framework:
 	3. TransactionL used to specify atomic units of work
 
 ER Diagram
-![avatar](images/ER.png)
+![avatar](image/ER.png)
 
 We run mysql database on RDS from AWS.
