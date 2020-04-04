@@ -21,3 +21,6 @@ ER Diagram
 ![avatar](ER.png)
 
 We run mysql database on RDS from AWS.
+
+Main page of our website
+![avatar](websitemainpage.png)

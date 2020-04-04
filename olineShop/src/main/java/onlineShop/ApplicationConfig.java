@@ -29,9 +29,9 @@ public class ApplicationConfig {
 		dataSource.setDriverClassName("com.mysql.jdbc.Driver");
                         // change to your own RDS_Endpoint
                         // change the username and password
-		dataSource.setUrl("jdbc:mysql://*******:3306/ecommerce?serverTimezone=UTC");
-		dataSource.setUsername("****");
-		dataSource.setPassword("*****");
+		dataSource.setUrl("jdbc:mysql:******:3306/ecommerce?serverTimezone=UTC");
+		dataSource.setUsername("admin");
+		dataSource.setPassword("******");
 
 		return dataSource;
 	}
